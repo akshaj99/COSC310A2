@@ -2,7 +2,7 @@
 
 The goal of this project is to create an interactive, text-based chatbot which is capable of completing 30 turns of conversation in a realistic manner.
 
-Our project is simulating a conversation between a pair of new friends. It will focus on the topic of "hobbies". According to user's questions, the chatbot "Mike" will gives multiple responses.
+Our project is simulating a conversation between a pair of new friends. It will focus on the topic of "hobbies". According to user's questions, the chatbot "Mike" will give multiple responses.
 
 # How to compile and run
 This was created and test on IntelliJ IDEA CE
