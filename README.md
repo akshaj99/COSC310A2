@@ -47,6 +47,7 @@ Mike: I'm sorry I don't understand. Could we talk about something else?
 
 listing:
 #1) Requirement Analyzing.
+
 #2) Design Friend "Mike".
   a. Hobbies
     1. Type of hobby
@@ -57,11 +58,13 @@ listing:
     1. True or False statement
     2. Keywords analysis
     3. Call to Hobbies for matching keywords
+    
 #3) Coding.
   a. List of adjectives
   b. List of hobbies
   c. List of doubts
   d. List of reasons
+  
 #4) Testing.
   a. Reasonable user
     1. Enter the hobby
@@ -71,5 +74,7 @@ listing:
   b. Trouble maker
     1. Enter gibberish in all stages
     2. Use inproper language during the communication
+    
 #5) Deployment.
+
 #6) Maintenance.
