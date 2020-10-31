@@ -49,32 +49,32 @@ listing:
 #1) Requirement Analyzing.
 
 #2) Design Friend "Mike".
-  a. Hobbies
-    1. Type of hobby
-    2. Reaction to this hobby
-    3. Specification, like merits or deflects
-    4. Habbits
-  b. Responce
-    1. True or False statement
-    2. Keywords analysis
-    3. Call to Hobbies for matching keywords
-    
+	a. Hobbies
+		1. Type of hobby
+		2. Reaction to this hobby
+		3. Specification, like merits or deflects
+		4. Habbits
+	b. Responce
+		1. True or False statement
+		2. Keywords analysis
+		3. Call to Hobbies for matching keywords
+
 #3) Coding.
-  a. List of adjectives
-  b. List of hobbies
-  c. List of doubts
-  d. List of reasons
+	a. List of adjectives
+	b. List of hobbies
+	c. List of doubts
+	d. List of reasons
   
 #4) Testing.
-  a. Reasonable user
-    1. Enter the hobby
-    2. Ask for benefits or introduce the hobby if the answer is no
-    3. Ask habbit of the hobby
-    4. Try different hobbies
-  b. Trouble maker
-    1. Enter gibberish in all stages
-    2. Use inproper language during the communication
-    
+	a. Reasonable user
+		1. Enter the hobby
+		2. Ask for benefits or introduce the hobby if the answer is no
+		3. Ask habbit of the hobby
+		4. Try different hobbies
+	b. Trouble maker
+		1. Enter gibberish in all stages
+		2. Use inproper language during the communication
+		
 #5) Deployment.
 
 #6) Maintenance.
