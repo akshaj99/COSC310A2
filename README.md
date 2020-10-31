@@ -7,7 +7,7 @@ Our project is simulating a conversation between a pair of new friends. It will 
 # How to compile and run
 This was created and test on IntelliJ IDEA CE
 
-At this stage, the conversation focuses on only 6 topics of hobbits:
+At this stage, the conversation focuses on only 6 topics of hobbies:
 
 -Reading
 
