@@ -46,35 +46,36 @@ Mike: I'm sorry I don't understand. Could we talk about something else?
 ```
 
 listing:
-#1) Requirement Analyzing.
 
-#2) Design Friend "Mike".
-	a. Hobbies
+1. Requirement Analyzing.
+
+1. Design Friend "Mike".
+	1. Hobbies
 		1. Type of hobby
-		2. Reaction to this hobby
-		3. Specification, like merits or deflects
-		4. Habbits
-	b. Responce
+		1. Reaction to this hobby
+		1. Specification, like merits or deflects
+		1. Habbits
+	1. Responce
 		1. True or False statement
-		2. Keywords analysis
-		3. Call to Hobbies for matching keywords
+		1. Keywords analysis
+		1. Call to Hobbies for matching keywords
 
-#3) Coding.
-	a. List of adjectives
-	b. List of hobbies
-	c. List of doubts
-	d. List of reasons
+1. Coding.
+	1. List of adjectives
+	1. List of hobbies
+	1. List of doubts
+	1. List of reasons
   
-#4) Testing.
-	a. Reasonable user
+1. Testing.
+	1. Reasonable user
 		1. Enter the hobby
-		2. Ask for benefits or introduce the hobby if the answer is no
-		3. Ask habbit of the hobby
-		4. Try different hobbies
-	b. Trouble maker
+		1. Ask for benefits or introduce the hobby if the answer is no
+		1. Ask habbit of the hobby
+		1. Try different hobbies
+	1. Trouble maker
 		1. Enter gibberish in all stages
-		2. Use inproper language during the communication
+		1. Use inproper language during the communication
 		
-#5) Deployment.
+1. Deployment.
 
-#6) Maintenance.
+1. Maintenance.
